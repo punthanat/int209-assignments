@@ -10,4 +10,4 @@ cp -r wipcamp12 wipcamp13  \
 rm wipcamp13/slide03.txt \
 mv wipcamp12/slide01.txt wipcamp13/newslide.txt \
 rm -rf wipcamp12 \
-rm -rf wipcamp13 \
+rm -rf wipcamp13 
